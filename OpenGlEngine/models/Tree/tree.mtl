@@ -1,0 +1,14 @@
+newmtl Pino:pasted__pCone8SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Arbol hojas.png
+Ni 1.00
+newmtl Pino:pasted__polySurface9SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Tronco.tif
+Ni 1.00
